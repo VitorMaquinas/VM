@@ -1,0 +1,5 @@
+{
+  "name": "OrçaMaster Pro",
+  "description": "Sistema completo para gerenciamento de orçamentos técnicos, com controle de clientes, equipamentos e geração de ordens de serviço prontas para impressão duplicada.",
+  "requestFramePermissions": []
+}
